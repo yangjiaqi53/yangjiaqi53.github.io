@@ -41,3 +41,12 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+// 👇 Custom override to remove circle crop from profile photo
+.author__avatar img {
+  border-radius: 0 !important;
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: auto !important;
+  object-fit: contain !important;
+}
+
