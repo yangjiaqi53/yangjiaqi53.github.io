@@ -24,7 +24,7 @@ author_profile: true
 
 ## Working Papers
 
-- **Choice Overload via the Primacy Effect** (Job Market Paper) (draft coming soon)
+- **Choice Overload via Choice Stickiness** (Job Market Paper) (draft coming soon)
   <details>
     <summary><u>Abstract</u></summary>
     <p>
