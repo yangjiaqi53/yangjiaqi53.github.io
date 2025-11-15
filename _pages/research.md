@@ -28,7 +28,7 @@ author_profile: true
   <details>
     <summary><u>Abstract</u></summary>
     <p>
-      Motivated by a behavioral finding, this paper proposes a new behavioral definition of choice overload using a novel primitive. We study choice path data that tracks how provisional choice evolves along a list of alternatives and draw a connection between choice overload and the primacy effect: both arise due to limited cognitive capacity. In our model, the decision maker encounters alternatives sequentially and decides whether to maintain her previous provisional choice after each alternative is encountered. She limits consideration using a set of attributes increasing in the number of alternatives. An axiomatic characterization is provided and supporting evidence is discussed.
+      Motivated by the novel evidence we uncover, this paper proposes a new behavioral definition of choice overload using a novel primitive. We study choice path data that tracks how provisional choice evolves along a list of alternatives and draw a connection between choice overload and the primacy effect: both arise due to cognitive constraints. In our model, the decision maker encounters alternatives sequentially and decides whether to maintain her previous provisional choice after each alternative is encountered. She limits consideration using a set of attributes increasing in choice set size. An axiomatic characterization is provided and supporting evidence is discussed.
     </p>
   </details>
   
@@ -37,9 +37,9 @@ author_profile: true
 
 ## Works in Progress
 
-- **Risk Aversion and Costly Information Acquisition: An Experiment**  (with Jiarui Wang)
+- **Risk Aversion and Costly Information Acquisition: An Experimental Study**  (with Jiarui Wang)
 
-- **Stochastic Magnitude Effect**
+- **Stochastic Magnitude Effect in Intertemporal Choice**
 (with <a href="https://sites.bu.edu/jnoor/" target="_blank" rel="noopener noreferrer">Jawwad Noor</a> and <a href="https://sites.google.com/r.hit-u.ac.jp/noriotakeoka/" target="_blank" rel="noopener noreferrer">Norio Takeoka</a>)  
 
 
