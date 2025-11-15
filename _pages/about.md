@@ -11,7 +11,9 @@ redirect_from:
 
 Hello! My name is Jiaqi (Jackie) Yang (杨家琪). I am a Ph.D. candidate in Economics at Boston University. My research fields are decision theory, behavioral economics and experimental economics. I'm interested in studying how people make decisions under complexity. 
 
-I will be on the 2025/26 job market. 
+I am on the 2025/26 job market. You can find my <a href="https://www.dropbox.com/scl/fi/3x4obm6tdgbv9xmnw9q02/CV_Jiaqi-Yang_Oct-16-2025.pdf?rlkey=gvv6vnrdl9lfiz7r07eeop79v&raw=1" 
+target="_blank" rel="noopener noreferrer">CV</a> here.
+ 
 
 <!--You can find my [CV](files/cv.pdf) here. -->
 
