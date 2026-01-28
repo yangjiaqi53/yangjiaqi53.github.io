@@ -24,11 +24,11 @@ author_profile: true
 
 ## Working Papers
 
-- <a href="https://www.dropbox.com/scl/fi/s445kh1651rw6jh9cusrg/Choice_Overload_via_Choice_Stickiness_Oct-14.pdf?rlkey=7kfaphgdrnjsk8qwiiyjd2czd&raw=1" target="_blank"><strong>Choice Overload via Choice Stickiness</strong></a> (Job Market Paper)
+- <a href="https://www.dropbox.com/scl/fi/ybsblpjgfeekz4xakjnpp/Choice_Overload_via_Choice_Stickiness_Jan-28.pdf?rlkey=95vcjxilw48h1t96e9oyrzg3m&st=551mrq8b&dl=0" target="_blank"><strong>Choice Overload via Choice Stickiness</strong></a> (Job Market Paper)
   <details>
     <summary><u>Abstract</u></summary>
     <p>
-      Motivated by the novel evidence we uncover, this paper proposes a new behavioral definition of choice overload using a novel primitive. We study choice path data that tracks how provisional choice evolves along a list of alternatives and draw a connection between choice overload and the primacy effect: both arise due to cognitive constraints. In our model, the decision maker encounters alternatives sequentially and decides whether to maintain her previous provisional choice after each alternative is encountered. She limits consideration using a set of attributes increasing in choice set size. An axiomatic characterization is provided and supporting evidence is discussed.
+      Motivated by the novel evidence we uncover, this paper proposes a new behavioral definition of choice overload using a novel primitive. We study choice path data that tracks how provisional choice evolves along a list of alternatives and draw a connection between choice overload and the primacy effect: both arise due to cognitive constraints. In our model, the decision maker encounters alternatives sequentially and decides whether to maintain her provisional choice after each alternative is encountered. She limits consideration using a set of attributes increasing in choice set size. An axiomatic characterization is provided and supporting evidence is discussed.
     </p>
   </details>
   
