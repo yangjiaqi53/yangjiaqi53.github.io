@@ -24,7 +24,7 @@ author_profile: true
 
 ## Working Papers
 
-- <a href="https://www.dropbox.com/scl/fi/ybsblpjgfeekz4xakjnpp/Choice_Overload_via_Choice_Stickiness_Jan-28.pdf?rlkey=95vcjxilw48h1t96e9oyrzg3m&st=551mrq8b&dl=0" target="_blank"><strong>Choice Overload via Choice Stickiness</strong></a> (Job Market Paper)
+- <a href="https://www.dropbox.com/scl/fi/1v5o3v99o82naxa82pj9f/Choice_Overload_via_Choice_Stickiness_Jan-29.pdf?rlkey=g78iq2v3fwzifank4l0kuisxb&st=fy4g0588&dl=0" target="_blank"><strong>Choice Overload via Choice Stickiness</strong></a> (Job Market Paper)
   <details>
     <summary><u>Abstract</u></summary>
     <p>
